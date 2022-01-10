@@ -55,3 +55,15 @@ body {
   flex-direction: column;
   gap: 30px;
 }
+@media only screen and (max-width: 800px) {
+  .one {
+    display: none;
+    /* display: flex; */
+  }
+  .two{
+    flex: 1;
+  }
+  /* div{
+    font-size: 30px;
+  } */
+  }

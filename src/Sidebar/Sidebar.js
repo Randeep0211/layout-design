@@ -11,7 +11,7 @@ function Sidebar(props) {
         alt="image"
         height={100}
         width={100}
-      ></img>
+      />
       <div className={styles.box_container}>
         <div className={styles.bar}>
           <h6></h6>
